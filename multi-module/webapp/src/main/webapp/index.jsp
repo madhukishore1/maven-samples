@@ -1,1 +1,1 @@
-Hello, suchir this is app version1.1
+Hello, suchir this is app version1.2
